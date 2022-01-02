@@ -1,0 +1,81 @@
+Question 1
+25 out of 25 points
+
+Correct	
+Select the A64 instructions that will perform the required operation from the drop-down list
+
+Question
+Copies a value from a memory location defined by an address into destination register
+
+Copies a value (from another register or a literal value) into destination register
+
+The mnemonic added to an instruction to say set the flag bits
+
+The instruction that causes programme to branch to a location defined by a register
+
+A right shift without maintaining the sign bit
+
+Question 2
+25 out of 25 points
+
+Correct	
+Select the A64 condition codes to match the text definition
+
+Question
+Equal
+
+Signed greater than
+
+Unsigned greater than
+
+Signed less than or equal to
+
+Unsigned  less than or equal to 
+
+Question 3
+14 out of 14 points
+
+Correct	
+What is the resulting value stored in w4 from the following code snippet?
+
+MOV  W1, #4
+MOV  W2, #2
+MOV  W3, #5
+ADD  W4, W1, W2
+SUB  W4, W4, W3
+
+Question 4
+14 out of 14 points
+
+Correct	
+What is the resulting value stored in w4 from the following code snippet?
+
+MOV  W1, #3
+MOV  W2, #1
+MOV  W3, #2
+ADD  W4, W1, W2
+SUB  W4, W4, W3
+
+Question 5
+7 out of 14 points
+
+Partial Credit	
+Which of the four flags N (result negative), Z (result zero), C (carry – unsigned overflow), V ((signed) overflow) would be set after the following code?
+
+2 flags are set
+
+MOV    W0, #0xFFFFFFFE
+MOV    W1, #0x2
+ADDS   W2, W0, W1
+
+Question 6
+10 out of 10 points
+
+Correct	
+What is the resulting value stored in w4 from the following code snippet?
+
+MOV  W1, #5
+MOV  W2, #3
+MOV  W3, #4
+SUB  W4, W1, W2
+ADD  W4, W4, W3

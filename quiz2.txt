@@ -1,0 +1,164 @@
+These 2-digit HEX numbers represent two’s complement 8-bit binary numbers. Which of them is negative?
+
+	a.	
+21
+
+	b.	
+78
+
+	c.	
+1A
+
+	d.	
+B7
+
+	e.	
+5F
+
+12.5 points   
+
+QUESTION 2
+
+Which is equal to 1810? (that is 18 decimal)
+
+	a.	
+0100112 (that is 010011 binary)
+
+	b.	
+1716 (that is 17 HEX)
+
+	c.	
+1116 (that is 11 HEX)
+
+	d.	
+0101012 (that is 010101 binary)
+
+	e.	
+1216 (that is 12 HEX)
+
+12.5 points   
+
+QUESTION 3
+
+Which of these is the highest positive two’s complement 8-bit binary number?
+
+	a.	
+10000000
+
+	b.	
+10000001
+
+	c.	
+01111101
+
+	d.	
+00001111
+
+	e.	
+11111111
+
+12.5 points   
+
+QUESTION 4
+
+Which of these two’s complement 8-bit binary numbers is equal to –10910?
+
+	a.	
+10010011
+
+	b.	
+10010010
+
+	c.	
+00010111
+
+	d.	
+10111111
+
+	e.	
+00101111
+
+12.5 points   
+
+QUESTION 5
+
+Which is equal to 1710? (that is 17 decimal)
+
+	a.	
+1116 (that is 11 HEX)
+
+	b.	
+0101012 (that is 010101 binary)
+
+	c.	
+0100112 (that is 010011 binary)
+
+	d.	
+1716 (that is 17 HEX)
+
+	e.	
+1216 (that is 12 HEX)
+
+12.5 points   
+
+QUESTION 6
+
+Which of these two’s complement 8-bit binary numbers is equal to –2310?
+
+	a.	
+1110 1001
+
+	b.	
+1110 1011
+
+	c.	
+1111 0101
+
+	d.	
+0010 1111
+
+	e.	
+0001 0111
+
+12.5 points   
+
+QUESTION 7
+
+Which of these hex numbers represents 01011010?
+
+	a.	
+DE
+
+	b.	
+5A
+
+	c.	
+C3
+
+	d.	
+F7
+
+	e.	
+B9
+
+12.5 points   
+
+QUESTION 8
+
+Which of these two’s complement 8-bit binary numbers is equal to –1810?
+
+	a.	
+11101110
+
+	b.	
+00101111
+
+	c.	
+11101101
+
+	d.	
+00010111
+
+	e.	
+11110101
+

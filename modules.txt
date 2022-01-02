@@ -1,0 +1,6 @@
+https://my.leedsbeckett.ac.uk/webapps/blackboard/execute/announcement?method=search&context=course_entry&course_id=_148518_1&handle=announcements_entry&mode=view--data base
+https://my.leedsbeckett.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_150870_1&content_id=_3612844_1-->FOCS
+https://my.leedsbeckett.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_148445_1&content_id=_3613088_1--> computer programming
+https://my.leedsbeckett.ac.uk/webapps/blackboard/execute/announcement?method=search&context=course_entry&course_id=_154437_1&handle=announcements_entry&mode=view-->oop
+https://my.leedsbeckett.ac.uk/webapps/blackboard/execute/announcement?method=search&context=course_entry&course_id=_154431_1&handle=announcements_entry&mode=view --> computer communication
+https://my.leedsbeckett.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_150112_1&content_id=_3312247_1-->computing system

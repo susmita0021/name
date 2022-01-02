@@ -1,0 +1,166 @@
+Exactly how many bits are there in a kibibyte?
+
+	a.	
+104
+
+	b.	
+210
+
+	c.	
+8192
+
+	d.	
+212
+
+	e.	
+1000
+
+12.5 points   
+
+QUESTION 2
+
+Which character has the ASCII code 4C16:
+
+	a.	
+'L'
+
+	b.	
+'6'
+
+	c.	
+'c'
+
+	d.	
+'C'
+
+	e.	
+'g'
+
+12.5 points   
+
+QUESTION 3
+
+Which character has the ASCII code 011001112:
+
+	a.	
+'L'
+
+	b.	
+'g'
+
+	c.	
+'c'
+
+	d.	
+'6'
+
+	e.	
+'C'
+
+12.5 points   
+
+QUESTION 4
+
+The UTF-8 (ASCII) code for the character '3' is:
+
+	a.	
+3310
+
+	b.	
+3316
+
+	c.	
+7416
+
+	d.	
+001100102
+
+	e.	
+5310
+
+12.5 points   
+
+QUESTION 5
+
+The UTF-8 (ASCII) code for the character 'a' is:
+
+	a.	
+4116
+
+	b.	
+5310
+
+	c.	
+01100102
+
+	d.	
+6116
+
+	e.	
+6110
+
+12.5 points   
+
+QUESTION 6
+
+Which character has the ASCII code 6710:
+
+	a.	
+'g'
+
+	b.	
+'L'
+
+	c.	
+'C'
+
+	d.	
+'6'
+
+	e.	
+'c'
+
+12.5 points   
+
+QUESTION 7
+
+Which character has the ASCII code 5410:
+
+	a.	
+'g'
+
+	b.	
+'c'
+
+	c.	
+'C'
+
+	d.	
+'L'
+
+	e.	
+'6'
+
+12.5 points   
+
+QUESTION 8
+
+The UTF-8 (ASCII) code for the character 'A' is:
+
+	a.	
+6116
+
+	b.	
+01100102
+
+	c.	
+5310
+
+	d.	
+6110
+
+	e.	
+4116
+
+12.5 points   
+
